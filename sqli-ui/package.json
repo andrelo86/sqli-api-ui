@@ -1,0 +1,14 @@
+{
+  "name": "ui-sqli",
+  "version": "1.0.0",
+  "description": "UI test for SQLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "author": "Andres Vaninetti",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.5"
+  }
+}
