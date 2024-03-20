@@ -1,7 +1,12 @@
 # SQLI CODE CHALLENGE
 
-# API
+This repository contains automated tests for a RESTfull api  
+It's a basic and small framework just for challenge purposes. The same could be extended and improved as project requirements.  
+The contained automated test cases are for PET and USERS.
+Test data consumed by the test cases are provided by running local swagger application.
+I select the mentioned stack due to it's a simply and powerfull stack to start to build a robust automation framework.
 
+# API
 ## stack
 - Docker
 - Javascript
@@ -10,14 +15,6 @@
 - superagent  
 - eslint  
 - allure  
-
-This repository contains automated tests for a RESTfull api  
-It's a basic and small framework just for challenge purposes. The same could be extended and improved as project requirements.  
-The contained automated test cases are for PET and USERS.
-Test data consumed by the test cases are provided by running local swagger application.
-I select the mentioned stack due to it's a simply and powerfull stack to start to build a robust automation framework.
-
-# API
 
 # setup
 1. Checkout repository  
@@ -29,15 +26,11 @@ I select the mentioned stack due to it's a simply and powerfull stack to start t
 
 
 # UI
-
 ## stack
 - Docker
 - Javascript
 - npm  
 - cypress
-
-This repository contains automated tests for a UI
-This is a basic and small framework just for challenge purposes. The same could be extended and improved as project requirements.  
 
 # setup
 1. Checkout repository  
